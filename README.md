@@ -1,9 +1,11 @@
 # notacu.lt
 
 ## Create a shortlink
-To create a shortlink create a pull request, edting the [slugs.json](slugs.json) file.
-Slugs should be in alphabetical order and have a description and URL to forward to. E.g.
+To create a shortlink create a pull request, editing the [slugs.json](slugs.json) file.
 
+Slugs should be in alphabetical order and have a description and URL to forward to.
+
+e.g.
 ```jsonc
 {
   /// ...
