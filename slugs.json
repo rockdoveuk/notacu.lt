@@ -14,6 +14,10 @@
     "hirejoe": {
         "url": "https://rockdove.uk/contact"
     },
+    "slack": {
+        "description": "Join link for Umbraco Slack",
+        "url": "http://umbracians.chat/"
+    },
     "stackedcontent": {
         "description": "Stacked Content on Our",
         "url": "https://our.umbraco.com/packages/backoffice-extensions/stacked-content/"
