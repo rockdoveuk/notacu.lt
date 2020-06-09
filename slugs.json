@@ -1,9 +1,29 @@
 {
-  "hirejoe": {
-    "url": "https://rockdove.uk/contact"
-  },
-  "bento": {
-    "description": "Bento block editor Github",
-    "url": "https://github.com/KOBENDigital/bento.editor"
-  }
+    "bento": {
+        "description": "Bento block editor Github",
+        "url": "https://github.com/KOBENDigital/bento.editor"
+    },
+    "contentblocks": {
+        "description": "Perplex.ContentBlocks Github",
+        "url": "https://github.com/PerplexDigital/Perplex.ContentBlocks"
+    },
+    "dtge": {
+        "description": "DocTypeGridEditor Github",
+        "url": "https://github.com/skttl/umbraco-doc-type-grid-editor"
+    },
+    "hirejoe": {
+        "url": "https://rockdove.uk/contact"
+    },
+    "stackedcontent": {
+        "description": "Stacked Content on Our",
+        "url": "https://our.umbraco.com/packages/backoffice-extensions/stacked-content/"
+    },
+    "umbblock": {
+        "description": "Blog post about Umbraco Block List",
+        "url": "https://umbraco.com/blog/product-update-may-29th-2020/"
+    },
+    "umbgrid": {
+        "description": "Umbraco Grid Editor documentation",
+        "url": "https://our.umbraco.com/documentation/getting-started/backoffice/property-editors/built-in-property-editors/grid-layout/"
+    }
 }
