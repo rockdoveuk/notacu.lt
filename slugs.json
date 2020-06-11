@@ -18,6 +18,10 @@
         "description": "Join link for Umbraco Slack",
         "url": "http://umbracians.chat/"
     },
+    "slides/what-the-block": {
+        "description": "Slides for Joe Glombek's What the Block presentation on block editors for Umbraco 8",
+        "url": "https://www.beautiful.ai/player/-M9IwZm6-BSuVdOFUjDR"
+    },
     "stackedcontent": {
         "description": "Stacked Content on Our",
         "url": "https://our.umbraco.com/packages/backoffice-extensions/stacked-content/"
