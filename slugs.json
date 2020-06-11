@@ -33,5 +33,9 @@
     "umbgrid": {
         "description": "Umbraco Grid Editor documentation",
         "url": "https://our.umbraco.com/documentation/getting-started/backoffice/property-editors/built-in-property-editors/grid-layout/"
+    },
+    "contentment": {
+        "description": "The Contentment package from Lee Kelleher",
+        "url": "https://our.umbraco.com/packages/backoffice-extensions/contentment/"
     }
 }
