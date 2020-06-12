@@ -5,6 +5,8 @@ To create a shortlink create a pull request, editing the [slugs.json](slugs.json
 
 Slugs should be in alphabetical order and have a description and URL to forward to.
 
+Short URLs are case insensitive, but should be stored in all lowercase.
+
 e.g.
 ```jsonc
 {
