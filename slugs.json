@@ -37,5 +37,9 @@
     "umbgrid": {
         "description": "Umbraco Grid Editor documentation",
         "url": "https://our.umbraco.com/documentation/getting-started/backoffice/property-editors/built-in-property-editors/grid-layout/"
+    },
+    "umbracoffee": {
+        "description": "UmbraCoffee",
+        "url": "https://www.youtube.com/umbraCoffee"
     }
 }
