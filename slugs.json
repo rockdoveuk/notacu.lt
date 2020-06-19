@@ -18,6 +18,10 @@
     "hirejoe": {
         "url": "https://rockdove.uk/contact"
     },
+    "meganavv8": {
+        "description": "MegaNavV8 property editor",
+        "url": "https://github.com/AaronSadlerUK/Umbraco.MegaNavV8"
+    },
     "slack": {
         "description": "Join link for Umbraco Slack",
         "url": "http://umbracians.chat/"
