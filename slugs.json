@@ -38,8 +38,8 @@
         "url": "https://our.umbraco.com/packages/backoffice-extensions/stacked-content/"
     },
     "umbblock": {
-        "description": "Blog post about Umbraco Block List",
-        "url": "https://umbraco.com/blog/product-update-may-29th-2020/"
+        "description": "Umbraco Block List documentation on Our",
+        "url": "https://our.umbraco.com/documentation/getting-started/backoffice/property-editors/built-in-property-editors/Block-List-Editor/"
     },
     "umbgrid": {
         "description": "Umbraco Grid Editor documentation",
