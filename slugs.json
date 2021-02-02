@@ -37,6 +37,10 @@
         "description": "Slides for Joe Glombek's What the Block presentation on block editors for Umbraco 8",
         "url": "https://www.beautiful.ai/player/-M9IwZm6-BSuVdOFUjDR"
     },
+    "slides/what-the-block/demo": {
+        "description": "Demo for the slides for Joe Glombek's What the Block presentation on block editors for Umbraco 8",
+        "url": "https://github.com/rockdoveuk/what-the-block-demo"
+    },
     "stackedcontent": {
         "description": "Stacked Content on Our",
         "url": "https://our.umbraco.com/packages/backoffice-extensions/stacked-content/"
