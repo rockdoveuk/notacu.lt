@@ -53,6 +53,10 @@
         "description": "Umbraco Grid Editor documentation",
         "url": "https://our.umbraco.com/documentation/getting-started/backoffice/property-editors/built-in-property-editors/grid-layout/"
     },
+    "umbicosaurus": {
+        "description": "Umbicosaurus (Umbraco icon thesaurus) plugin Github repo",
+        "url": "https://github.com/rockdoveuk/umbicosaurus"
+    },
     "umbracoffee": {
         "description": "UmbraCoffee",
         "url": "https://www.youtube.com/umbraCoffee"
