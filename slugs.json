@@ -25,6 +25,14 @@
         "description": "MegaNavV8 property editor",
         "url": "https://github.com/AaronSadlerUK/Umbraco.MegaNavV8"
     },
+    "packagemanifest": {
+        "description": "Package Manifest podcast",
+        "url": "https://packagemanifest.fm"
+    },
+    "pm": {
+        "description": "Package Manifest podcast (shortlink)",
+        "url": "https://packagemanifest.fm"
+    },
     "slack": {
         "description": "Join link for Umbraco Slack",
         "url": "http://umbracians.chat/"
@@ -64,9 +72,5 @@
     "umbracoffee": {
         "description": "UmbraCoffee",
         "url": "https://www.youtube.com/umbraCoffee"
-    },
-    "packagemanifest": {
-        "description": "Package Manifest",
-        "url": "https://packagemanifest.fm"
     }
 }
