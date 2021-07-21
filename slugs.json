@@ -64,5 +64,9 @@
     "umbracoffee": {
         "description": "UmbraCoffee",
         "url": "https://www.youtube.com/umbraCoffee"
+    },
+    "packagemanifest": {
+        "description": "Package Manifest",
+        "url": "https://packagemanifest.fm"
     }
 }
