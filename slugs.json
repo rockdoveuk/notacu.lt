@@ -72,5 +72,9 @@
     "umbracoffee": {
         "description": "UmbraCoffee",
         "url": "https://www.youtube.com/umbraCoffee"
+    },
+    "wessex": {
+        "description": "Wessex Umbraco Meetup",
+        "url": "https://www.meetup.com/en-AU/odense-on-the-cloud-meetup-group/"
     }
 }
