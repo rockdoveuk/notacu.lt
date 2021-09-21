@@ -11,6 +11,10 @@
         "description": "The Contentment package from Lee Kelleher",
         "url": "https://our.umbraco.com/packages/backoffice-extensions/contentment/"
     },
+    "conduct": {
+        "description": "Umbraco Code of Conduct",
+        "url": "https://our.umbraco.com/code-of-conduct"
+    },
     "dtge": {
         "description": "DocTypeGridEditor Github",
         "url": "https://github.com/skttl/umbraco-doc-type-grid-editor"
