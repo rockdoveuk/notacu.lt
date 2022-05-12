@@ -1,4 +1,16 @@
 {
+    "9.5": {
+        "description": "9.5 release notes",
+        "url": "https://our.umbraco.com/download/releases/950"
+    },
+    "9.5/blog": {
+        "description": "9.5 release blog post",
+        "url": "https://umbraco.com/blog/umbraco-95-release"
+    },
+    "9.5/video": {
+        "description": "9.5 unboxing video",
+        "url": "https://youtu.be/nhs30s-DM4M"
+    },
     "bento": {
         "description": "Bento block editor Github",
         "url": "https://github.com/KOBENDigital/bento.editor"
