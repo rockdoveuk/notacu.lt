@@ -49,6 +49,10 @@
         "description": "Package Manifest podcast (shortlink)",
         "url": "https://packagemanifest.fm"
     },
+    "psw": {
+        "description": "Package Script Writer tool",
+        "url": "https://psw.codeshare.co.uk/"
+    },
     "slack": {
         "description": "Join link for Umbraco Slack",
         "url": "http://umbracians.chat/"
