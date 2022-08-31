@@ -11,6 +11,10 @@
         "description": "9.5 unboxing video",
         "url": "https://youtu.be/nhs30s-DM4M"
     },
+    "10.2rc": {
+        "description": "10.2 RC blog",
+        "url": "https://umbraco.com/blog/umbraco-102-release-candidate/"
+    },
     "bento": {
         "description": "Bento block editor Github",
         "url": "https://github.com/KOBENDigital/bento.editor"
@@ -92,6 +96,10 @@
     "umbracoffee": {
         "description": "UmbraCoffee",
         "url": "https://www.youtube.com/umbraCoffee"
+    },
+    "umbracoffee/240": {
+        "description": "umbraCoffee #240 - Ten Point Two",
+        "url": "https://youtu.be/UOx3QvYX36Q"
     },
     "wessex": {
         "description": "Wessex Umbraco Meetup",
