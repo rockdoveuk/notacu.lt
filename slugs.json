@@ -85,6 +85,10 @@
         "description": "Stacked Content on Our",
         "url": "https://our.umbraco.com/packages/backoffice-extensions/stacked-content/"
     },
+    "talks/diydxp": {
+        "description": "DIY DXP talk links",
+        "url": "https://joe.gl/ombek/links/diy-dxp/"
+    },
     "umbblock": {
         "description": "Umbraco Block List documentation on Our",
         "url": "https://our.umbraco.com/documentation/getting-started/backoffice/property-editors/built-in-property-editors/Block-List-Editor/"
