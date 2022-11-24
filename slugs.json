@@ -49,6 +49,10 @@
         "description": "MegaNavV8 property editor",
         "url": "https://github.com/AaronSadlerUK/Umbraco.MegaNavV8"
     },
+    "notif-types": {
+        "description": "Notification types documentation",
+        "url": "https://docs.umbraco.com/umbraco-cms/developers-reference/notifications#content-media-and-member-notifications"
+    },
     "packagemanifest": {
         "description": "Package Manifest podcast",
         "url": "https://packagemanifest.fm"
