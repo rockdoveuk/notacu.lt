@@ -69,10 +69,6 @@
         "description": "Package Script Writer tool",
         "url": "https://psw.codeshare.co.uk/"
     },
-    "quiz": {
-        "description": "Umbraco Community Quiz",
-        "url": "https://communityquiz.net/"
-    },
     "slack": {
         "description": "Join link for Umbraco Slack",
         "url": "http://umbracians.chat/"
