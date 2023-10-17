@@ -31,6 +31,10 @@
         "description": "Umbraco Code of Conduct",
         "url": "https://our.umbraco.com/code-of-conduct"
     },
+    "discord": {
+        "description": "Invite link for Umbraco HQ's Discord Server",
+        "url": "https://discord.gg/umbraco"
+    },
     "dtge": {
         "description": "DocTypeGridEditor Github",
         "url": "https://github.com/skttl/umbraco-doc-type-grid-editor"
@@ -44,6 +48,10 @@
     },
     "joe": {
         "url": "https://joe.gl/ombek/developer"
+    },
+    "london": {
+        "description": "The London Umbraco Meetup",
+        "url": "https://www.meetup.com/the-london-umbraco-meetup/"
     },
     "meganavv8": {
         "description": "MegaNavV8 property editor",
