@@ -93,6 +93,10 @@
         "description": "Slides for Joe Glombek's 'Mapping our Journey to Accessibility' presentation on what we can learn about accessibility from maps",
         "url": "https://www.beautiful.ai/player/-M_ubONlciq_EK7SN5Bi"
     },
+    "slides/wwdits": {
+        "description": "Slides for Jason Elkin and Joe Glombek's talk: 'What we do in the Shadows: Bringing legacy apps back to life with web components'",
+        "url": "https://slides.joe.gl/what-we-do-in-the-shadows"
+    },
     "stackedcontent": {
         "description": "Stacked Content on Our",
         "url": "https://our.umbraco.com/packages/backoffice-extensions/stacked-content/"
