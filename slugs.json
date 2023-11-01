@@ -105,6 +105,10 @@
         "description": "DIY DXP talk links",
         "url": "https://joe.gl/ombek/links/diy-dxp/"
     },
+    "ukfestmap": {
+        "description": "Umbraco UK Festival locations map",
+        "url": "https://www.google.com/maps/d/u/0/edit?mid=1KmucaqkpfRXzGL0pO9Lxn2C12ZXTEHQ&usp=sharing"
+    },
     "umbblock": {
         "description": "Umbraco Block List documentation on Our",
         "url": "https://our.umbraco.com/documentation/getting-started/backoffice/property-editors/built-in-property-editors/Block-List-Editor/"
