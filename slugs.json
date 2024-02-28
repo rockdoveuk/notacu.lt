@@ -77,6 +77,10 @@
         "description": "Join link for Umbraco Slack",
         "url": "http://umbracians.chat/"
     },
+    "slides/copy-paste": {
+        "description": "Slides for Joe Glombek's How to Copy & Paste presentation",
+        "url": "https://slides.joe.gl/how-to-copy-and-paste/"
+    },
     "slides/notacult": {
         "description": "Slides for Joe Glombek's presentation about building the notacu.lt URL shortener",
         "url": "https://www.beautiful.ai/player/-MM2Z8zdzEIwQEn68GXa"
