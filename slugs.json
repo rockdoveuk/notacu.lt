@@ -19,6 +19,10 @@
         "description": "Bento block editor Github",
         "url": "https://github.com/KOBENDigital/bento.editor"
     },
+    "bsky-starter": {
+        "description": "Dean Leigh's BlueSky Umbraco Community Starter Pack",
+        "url": "https://bsky.app/start/did:plc:i46llqdekf5kgugiizrar7jv/3la4uixlysk2w"
+    },
     "contentblocks": {
         "description": "Perplex.ContentBlocks Github",
         "url": "https://github.com/PerplexDigital/Perplex.ContentBlocks"
