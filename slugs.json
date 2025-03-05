@@ -105,6 +105,10 @@
         "description": "Slides for Jason Elkin and Joe Glombek's talk: 'What we do in the Shadows: Bringing legacy apps back to life with web components'",
         "url": "https://slides.joe.gl/what-we-do-in-the-shadows"
     },
+    "sparkmap": {
+        "description": "Spark Festival locations map",
+        "url": "https://www.google.com/maps/d/u/0/edit?mid=1XcOzjW7wX6kg2l3Iwpbqodh-t_kS8D8&usp=sharing"
+    },
     "stackedcontent": {
         "description": "Stacked Content on Our",
         "url": "https://our.umbraco.com/packages/backoffice-extensions/stacked-content/"
